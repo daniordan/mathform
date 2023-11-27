@@ -1,5 +1,7 @@
 # Mathform Angular App
 
+Simple one-page design that features a math practice mini-game. Features: generates a random math adding problem and the user needs to figure out the answer, marks with light green close answer from user, metrics/statistics to show to user how many seconds it's taking per solution.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
 ## Prerequisites
